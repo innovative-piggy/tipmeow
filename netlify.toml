@@ -1,0 +1,11 @@
+[[redirects]]
+from = "/.well-known/apple-developer-merchantid-domain-association"
+to = "/apple-developer-merchantid-domain-association"
+status = 200
+
+
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
